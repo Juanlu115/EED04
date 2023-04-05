@@ -3,15 +3,22 @@ import cuentas.CCuenta;
 
 /**
  *
- * @author st_ju
+ * @author Juan Luis Garcia-Nieto Solis
  */
 public class Main {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
     }
 
+    /**
+     *
+     */
     public void operativa_cuenta() {
         CCuenta cuenta1;
         double saldoActual;
